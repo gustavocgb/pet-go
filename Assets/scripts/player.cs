@@ -40,12 +40,12 @@ public class player : MonoBehaviour
                 moveDirection = Vector3.zero;
                 anim.SetInteger("transicao",0);
             }
-            if(Input.GetKey(KeyCode.Q))
+            if(Input.GetKey(KeyCode.LeftShift))
             {
                 moveDirection = Vector3.forward * (speed+10);
                 anim.SetInteger("transicao",2);
             }
-            if(Input.GetKeyUp(KeyCode.Q))
+            if(Input.GetKeyUp(KeyCode.LeftShift))
             {
                 moveDirection = Vector3.zero;
                 anim.SetInteger("transicao",0);

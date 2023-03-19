@@ -5,6 +5,10 @@ TagManager:
   serializedVersion: 2
   tags:
   - pet
+  - boneco
+  - caixa_vazia
+  - caixa_cheia
+  - pet_na_caixa
   layers:
   - Default
   - TransparentFX

@@ -1,1 +1,1 @@
-/home/thiago/UFOP/Computacao Grafica/unity_projects/pet-go-3
+/home/thiago/UFOP/Computacao Grafica/unity_projects/pet-go
